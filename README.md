@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00111001 / Nick V.
 - 👀 I’m interested in Psychology, Animes and Coding, watching Series and playing Videogames
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working Python
 - 📫 How to reach me: Discord Magga#5100
 
 <!---
