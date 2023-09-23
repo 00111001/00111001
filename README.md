@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @00111001 / Nick V.
 - 👀 I’m interested in Psychology, Animes and Coding, watching Series and playing Videogames
-- 🌱 I’m currently working with Python
-- 📫 How to reach me: Discord Magga#5100
+- 🌱 I’m currently working with Python & C++
+- 📫 How to reach me: Discord Magga42
 
 <!---
 00111001/00111001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
